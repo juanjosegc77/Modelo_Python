@@ -1,0 +1,366 @@
+Valores de CT
+Para un número de muestras = 345
+recomendado = 152 ocurrencias
+limitrofe = 123 ocurrencias
+alto_riesgo = 70 ocurrencias
+Para un número de muestras = 50
+recomendado = 22 ocurrencias
+limitrofe = 18 ocurrencias
+alto_riesgo = 10 ocurrencias
+Para un número de muestras = 12
+recomendado = 6 ocurrencias
+limitrofe = 3 ocurrencias
+alto_riesgo = 3 ocurrencias
+Para un número de muestras = 4
+recomendado = 2 ocurrencias
+limitrofe = 2 ocurrencias
+alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+recomendado = 1 ocurrencias
+limitrofe = 1 ocurrencias
+alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+recomendado = 1 ocurrencias
+limitrofe = 1 ocurrencias
+alto_riesgo = 0 ocurrencias
+valores de referencia: [0, 200, 240, 400]
+varianza (valores) = 3757.7949023616216
+varianza (evaluación) = 0.1665691926353279
+
+
+Valores de C-LDL
+Para un número de muestras = 345
+recomendado = 187 ocurrencias
+limitrofe = 158 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 50
+recomendado = 27 ocurrencias
+limitrofe = 23 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 12
+recomendado = 6 ocurrencias
+limitrofe = 6 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 4
+recomendado = 2 ocurrencias
+limitrofe = 2 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+recomendado = 1 ocurrencias
+limitrofe = 1 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+recomendado = 0 ocurrencias
+limitrofe = 2 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+valores de referencia: [0, 130, 160, 190, 400]
+varianza (valores) = 104.92608273868868
+varianza (evaluación) = 0.008072622125533231
+
+
+Valores de TG
+Para un número de muestras = 345
+recomendado = 74 ocurrencias
+limitrofe = 235 ocurrencias
+alto_riesgo = 36 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 50
+recomendado = 12 ocurrencias
+limitrofe = 33 ocurrencias
+alto_riesgo = 5 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 12
+recomendado = 2 ocurrencias
+limitrofe = 10 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 4
+recomendado = 2 ocurrencias
+limitrofe = 2 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+recomendado = 1 ocurrencias
+limitrofe = 1 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+recomendado = 1 ocurrencias
+limitrofe = 1 ocurrencias
+alto_riesgo = 0 ocurrencias
+muy_alto_riesgo = 0 ocurrencias
+valores de referencia: [0, 150, 200, 1000, 1100]
+varianza (valores) = 488.29626353722034
+varianza (evaluación) = 0.03202851105977875
+
+
+Valores de C-HDL
+Para un número de muestras = 345
+alto_riesgo = 61 ocurrencias
+recomendado = 284 ocurrencias
+Para un número de muestras = 50
+alto_riesgo = 8 ocurrencias
+recomendado = 42 ocurrencias
+Para un número de muestras = 12
+alto_riesgo = 2 ocurrencias
+recomendado = 10 ocurrencias
+Para un número de muestras = 4
+alto_riesgo = 1 ocurrencias
+recomendado = 3 ocurrencias
+Para un número de muestras = 2
+alto_riesgo = 0 ocurrencias
+recomendado = 2 ocurrencias
+Para un número de muestras = 2
+alto_riesgo = 0 ocurrencias
+recomendado = 2 ocurrencias
+valores de referencia: [0, 35, 70]
+varianza (valores) = 1.0214561958047539
+varianza (evaluación) = 6.221822859216551e-05
+
+
+Valores de PCR
+Para un número de muestras = 345
+bajo_riesgo = 266 ocurrencias
+riesgo_promedio = 70 ocurrencias
+alto_riesgo = 9 ocurrencias
+Para un número de muestras = 50
+bajo_riesgo = 40 ocurrencias
+riesgo_promedio = 8 ocurrencias
+alto_riesgo = 2 ocurrencias
+Para un número de muestras = 12
+bajo_riesgo = 10 ocurrencias
+riesgo_promedio = 2 ocurrencias
+alto_riesgo = 0 ocurrencias
+Para un número de muestras = 4
+bajo_riesgo = 4 ocurrencias
+riesgo_promedio = 0 ocurrencias
+alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+bajo_riesgo = 2 ocurrencias
+riesgo_promedio = 0 ocurrencias
+alto_riesgo = 0 ocurrencias
+Para un número de muestras = 2
+bajo_riesgo = 2 ocurrencias
+riesgo_promedio = 0 ocurrencias
+alto_riesgo = 0 ocurrencias
+valores de referencia: [0, 1, 3, 5]
+varianza (valores) = 0.5264490230630671
+varianza (evaluación) = 0.01647236005341752
+
+
+Valores de TSH
+Para un número de muestras = 345
+hipotiroidismo_secundario = 0 ocurrencias
+normal = 257 ocurrencias
+Hipotiroidismo subclínico = 88 ocurrencias
+Hipotiroidismo primario = 0 ocurrencias
+Para un número de muestras = 50
+hipotiroidismo_secundario = 0 ocurrencias
+normal = 36 ocurrencias
+Hipotiroidismo subclínico = 14 ocurrencias
+Hipotiroidismo primario = 0 ocurrencias
+Para un número de muestras = 12
+hipotiroidismo_secundario = 0 ocurrencias
+normal = 8 ocurrencias
+Hipotiroidismo subclínico = 4 ocurrencias
+Hipotiroidismo primario = 0 ocurrencias
+Para un número de muestras = 4
+hipotiroidismo_secundario = 0 ocurrencias
+normal = 3 ocurrencias
+Hipotiroidismo subclínico = 1 ocurrencias
+Hipotiroidismo primario = 0 ocurrencias
+Para un número de muestras = 2
+hipotiroidismo_secundario = 0 ocurrencias
+normal = 2 ocurrencias
+Hipotiroidismo subclínico = 0 ocurrencias
+Hipotiroidismo primario = 0 ocurrencias
+Para un número de muestras = 2
+hipotiroidismo_secundario = 0 ocurrencias
+normal = 1 ocurrencias
+Hipotiroidismo subclínico = 1 ocurrencias
+Hipotiroidismo primario = 0 ocurrencias
+valores de referencia: [0, 1, 4.5, 10, 15.5]
+varianza (valores) = 2.0079579508667598
+varianza (evaluación) = 0.008433638762628428
+
+
+Valores de Vitamina_D
+Para un número de muestras = 345
+deficiencia = 60 ocurrencias
+normal = 285 ocurrencias
+Para un número de muestras = 50
+deficiencia = 9 ocurrencias
+normal = 41 ocurrencias
+Para un número de muestras = 12
+deficiencia = 3 ocurrencias
+normal = 9 ocurrencias
+Para un número de muestras = 4
+deficiencia = 1 ocurrencias
+normal = 3 ocurrencias
+Para un número de muestras = 2
+deficiencia = 1 ocurrencias
+normal = 1 ocurrencias
+Para un número de muestras = 2
+deficiencia = 0 ocurrencias
+normal = 2 ocurrencias
+valores de referencia: [0, 20, 100]
+varianza (valores) = 340.5474776699566
+varianza (evaluación) = 0.019388161336284786
+
+
+Valores de mcv
+Para un número de muestras = 345
+bajo = 0 ocurrencias
+normal = 301 ocurrencias
+alto = 52 ocurrencias
+Para un número de muestras = 50
+bajo = 0 ocurrencias
+normal = 43 ocurrencias
+alto = 9 ocurrencias
+Para un número de muestras = 12
+bajo = 0 ocurrencias
+normal = 10 ocurrencias
+alto = 3 ocurrencias
+Para un número de muestras = 4
+bajo = 0 ocurrencias
+normal = 4 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 2 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 1 ocurrencias
+alto = 1 ocurrencias
+valores de referencia: [0, 60, 95, 110]
+varianza (valores) = 19.728208359588326
+varianza (evaluación) = 0.0159258419099629
+
+
+Valores de alkphos
+Para un número de muestras = 345
+bajo = 7 ocurrencias
+normal = 338 ocurrencias
+alto = 2 ocurrencias
+Para un número de muestras = 50
+bajo = 3 ocurrencias
+normal = 48 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 12
+bajo = 0 ocurrencias
+normal = 12 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 4
+bajo = 0 ocurrencias
+normal = 4 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 2 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 2 ocurrencias
+alto = 0 ocurrencias
+valores de referencia: [0, 40, 129, 160]
+varianza (valores) = 335.6612476370511
+varianza (evaluación) = 0.0009235264585807198
+
+
+Valores de sgpt
+Para un número de muestras = 345
+bajo = 2 ocurrencias
+normal = 314 ocurrencias
+alto = 30 ocurrencias
+Para un número de muestras = 50
+bajo = 0 ocurrencias
+normal = 43 ocurrencias
+alto = 7 ocurrencias
+Para un número de muestras = 12
+bajo = 0 ocurrencias
+normal = 10 ocurrencias
+alto = 2 ocurrencias
+Para un número de muestras = 4
+bajo = 0 ocurrencias
+normal = 3 ocurrencias
+alto = 1 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 1 ocurrencias
+alto = 1 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 1 ocurrencias
+alto = 1 ocurrencias
+valores de referencia: [0, 7, 55, 200]
+varianza (valores) = 379.6266330602814
+varianza (evaluación) = 0.006163719686322527
+
+
+Valores de sgot
+Para un número de muestras = 345
+bajo = 3 ocurrencias
+normal = 333 ocurrencias
+alto = 12 ocurrencias
+Para un número de muestras = 50
+bajo = 0 ocurrencias
+normal = 48 ocurrencias
+alto = 2 ocurrencias
+Para un número de muestras = 12
+bajo = 0 ocurrencias
+normal = 12 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 4
+bajo = 0 ocurrencias
+normal = 4 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 2 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 2 ocurrencias
+alto = 0 ocurrencias
+valores de referencia: [0, 8, 48, 100]
+varianza (valores) = 101.00042848141146
+varianza (evaluación) = 0.004215963902964048
+
+
+Valores de gammagt
+Para un número de muestras = 345
+bajo = 12 ocurrencias
+normal = 283 ocurrencias
+alto = 53 ocurrencias
+Para un número de muestras = 50
+bajo = 1 ocurrencias
+normal = 40 ocurrencias
+alto = 9 ocurrencias
+Para un número de muestras = 12
+bajo = 0 ocurrencias
+normal = 10 ocurrencias
+alto = 2 ocurrencias
+Para un número de muestras = 4
+bajo = 0 ocurrencias
+normal = 4 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 2 ocurrencias
+alto = 0 ocurrencias
+Para un número de muestras = 2
+bajo = 0 ocurrencias
+normal = 1 ocurrencias
+alto = 1 ocurrencias
+valores de referencia: [0, 8, 61, 310]
+varianza (valores) = 1536.4584415038858
+varianza (evaluación) = 0.013135529403874588
+
+

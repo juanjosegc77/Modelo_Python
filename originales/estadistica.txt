@@ -1,0 +1,96 @@
+Valores estadísticos de : CT
+máximo = 336.910365
+mínimo = 37.568109
+media = 193.7150690173913
+desviación estándar = 61.30085564134991
+varianza = 3757.7949023616216
+
+
+Valores estadísticos de : C-LDL
+máximo = 151.15384
+mínimo = 106.922663
+media = 128.39970751304347
+desviación estándar = 10.243343337928719
+varianza = 104.92608273868868
+
+
+Valores estadísticos de : TG
+máximo = 221.558229
+mínimo = 121.884592
+media = 169.12013393913043
+desviación estándar = 22.097426627035563
+varianza = 488.29626353722034
+
+
+Valores estadísticos de : C-HDL
+máximo = 37.967181
+mínimo = 33.43558
+media = 36.14567836811594
+desviación estándar = 1.010671161063159
+varianza = 1.0214561958047539
+
+
+Valores estadísticos de : PCR
+máximo = 3.929704
+mínimo = 0.20138
+media = 0.7926487855072465
+desviación estándar = 0.7255680692140931
+varianza = 0.5264490230630671
+
+
+Valores estadísticos de : TSH
+máximo = 9.349185
+mínimo = 2.273377
+media = 4.192929481159421
+desviación estándar = 1.417024329666488
+varianza = 2.0079579508667598
+
+
+Valores estadísticos de : Vitamina_D
+máximo = 92.821717
+mínimo = 9.845913
+media = 36.470030773913045
+desviación estándar = 18.453928515900255
+varianza = 340.5474776699566
+
+
+Valores estadísticos de : mcv
+máximo = 103.0
+mínimo = 65.0
+media = 90.15942028985508
+desviación estándar = 4.441644780887856
+varianza = 19.728208359588326
+
+
+Valores estadísticos de : alkphos
+máximo = 138.0
+mínimo = 23.0
+media = 69.8695652173913
+desviación estándar = 18.32106022142417
+varianza = 335.6612476370511
+
+
+Valores estadísticos de : sgpt
+máximo = 155.0
+mínimo = 4.0
+media = 30.405797101449274
+desviación estándar = 19.48400967614935
+varianza = 379.6266330602814
+
+
+Valores estadísticos de : sgot
+máximo = 82.0
+mínimo = 5.0
+media = 24.643478260869564
+desviación estándar = 10.049896938845267
+varianza = 101.00042848141146
+
+
+Valores estadísticos de : gammagt
+máximo = 297.0
+mínimo = 5.0
+media = 38.28405797101449
+desviación estándar = 39.1976841344471
+varianza = 1536.4584415038858
+
+
